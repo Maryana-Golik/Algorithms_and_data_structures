@@ -1,0 +1,15 @@
+/Users/mac/Desktop/study/Algorithms_and_data_structures/obj/Debug/net9.0/Algorithms_and_data_structures.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/Desktop/study/Algorithms_and_data_structures/obj/Debug/net9.0/Algorithms_and_data_structures.AssemblyInfoInputs.cache
+/Users/mac/Desktop/study/Algorithms_and_data_structures/obj/Debug/net9.0/Algorithms_and_data_structures.AssemblyInfo.cs
+/Users/mac/Desktop/study/Algorithms_and_data_structures/obj/Debug/net9.0/Algorithms_and_data_structures.csproj.CoreCompileInputs.cache
+/Users/mac/Desktop/study/Algorithms_and_data_structures/obj/Debug/net9.0/Algorithms_and_data_structures.sourcelink.json
+/Users/mac/Desktop/study/Algorithms_and_data_structures/bin/Debug/net9.0/Algorithms_and_data_structures
+/Users/mac/Desktop/study/Algorithms_and_data_structures/bin/Debug/net9.0/Algorithms_and_data_structures.deps.json
+/Users/mac/Desktop/study/Algorithms_and_data_structures/bin/Debug/net9.0/Algorithms_and_data_structures.runtimeconfig.json
+/Users/mac/Desktop/study/Algorithms_and_data_structures/bin/Debug/net9.0/Algorithms_and_data_structures.dll
+/Users/mac/Desktop/study/Algorithms_and_data_structures/bin/Debug/net9.0/Algorithms_and_data_structures.pdb
+/Users/mac/Desktop/study/Algorithms_and_data_structures/obj/Debug/net9.0/Algorithms_and_data_structures.dll
+/Users/mac/Desktop/study/Algorithms_and_data_structures/obj/Debug/net9.0/refint/Algorithms_and_data_structures.dll
+/Users/mac/Desktop/study/Algorithms_and_data_structures/obj/Debug/net9.0/Algorithms_and_data_structures.pdb
+/Users/mac/Desktop/study/Algorithms_and_data_structures/obj/Debug/net9.0/Algorithms_and_data_structures.genruntimeconfig.cache
+/Users/mac/Desktop/study/Algorithms_and_data_structures/obj/Debug/net9.0/ref/Algorithms_and_data_structures.dll
